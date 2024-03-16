@@ -1,0 +1,39 @@
+
+body{
+    background-color: black;
+
+}
+h1{
+    color: white;
+}
+#count{
+    color: aliceblue;
+    
+    width: 200px;
+    
+    margin-bottom: 10px;
+}
+.line{
+    border-bottom: 1px solid white;
+    width: 160px;
+}
+
+.error{
+    margin-top: 10px;
+    color: red;
+}
+button{
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+}
+
+.none{
+    display: none;
+}
+
+#clear{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
